@@ -10,13 +10,15 @@ Somos un estudio de dos personas. Construimos aplicaciones propias y software a 
 
 | Producto | Descripción | Links |
 | --- | --- | --- |
-| **EncryptIA** | App para aprender encriptación clásica, cifrar mensajes y detectar la clave usada con IA. Gratis. | [Google Play](https://play.google.com/store/apps/details?id=com.bredaz.encryptia) · [Web](https://bredaz.com/encryptia) |
+| **EncryptIA by Bredaz** | Aprende encriptación clásica, cifra mensajes y descifra con IA. Gratis. | [Google Play](https://play.google.com/store/apps/details?id=com.bredaz.encryptia) · [Web](https://bredaz.com/encryptia/) · [Docs](https://github.com/Bredaz/encryptia-app) |
 | **Software a medida** | Desarrollo web y móvil, integración de modelos de IA, automatizaciones. | [Contacto](mailto:support@bredaz.com) |
 
 ## Links
 
 - Sitio web: https://bredaz.com
+- Producto EncryptIA: https://bredaz.com/encryptia/
 - Nosotros: https://bredaz.com/nosotros.html
+- Co-fundador y CTO: https://bredaz.com/juan-martin-cerezo.html
 - Términos y Condiciones: https://bredaz.com/terminos.html
 - Privacidad de EncryptIA: https://bredaz.com/encryptia/privacy.html
 - Instagram / X / TikTok: [@somosbredaz](https://www.instagram.com/somosbredaz)
